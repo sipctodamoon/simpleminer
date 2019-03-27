@@ -28,3 +28,5 @@ simpleminer.exe --nvidia --name 0xdf90949bbfad1ae8dccf0879364bf923d5db14d4 --ser
 ## mineros和轻松矿工均已支持
 
 轻松矿工内核名gominer_1.1_n卡
+
+qq： 3124504600
